@@ -12,6 +12,9 @@ public class HookClass {
 
 		System.out.println(d);
 
+		System.out.println(c);
+		System.out.println(a);
+
 	}
 
 }
