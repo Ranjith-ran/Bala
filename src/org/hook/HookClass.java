@@ -6,7 +6,11 @@ public class HookClass {
 
 		int b = 200;
 
-		int c = a + b;
+		int c = 300;
+
+		int d = a + b + c;
+
+		System.out.println(d);
 
 		System.out.println(c);
 		System.out.println(a);
